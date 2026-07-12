@@ -1,0 +1,236 @@
+{
+  "image_count": 38,
+  "before_bytes": 53973884,
+  "after_bytes": 5553872,
+  "saved_percent": 89.7,
+  "images": [
+    {
+      "source": "图片素材库/00-品牌标识/百宠汇-logo.png",
+      "output": "图片素材库/00-品牌标识/百宠汇-logo.png",
+      "before_bytes": 214607,
+      "after_bytes": 214607
+    },
+    {
+      "source": "图片素材库/01-首页首屏/首屏-真犬实操课堂.png",
+      "output": "图片素材库/01-首页首屏/首屏-真犬实操课堂.webp",
+      "before_bytes": 2022705,
+      "after_bytes": 141260
+    },
+    {
+      "source": "图片素材库/02-品牌实力与卖点/卖点-宠物美容作品.jpg",
+      "output": "图片素材库/02-品牌实力与卖点/卖点-宠物美容作品.webp",
+      "before_bytes": 353831,
+      "after_bytes": 124810
+    },
+    {
+      "source": "图片素材库/02-品牌实力与卖点/实力-前台与实操教室.png",
+      "output": "图片素材库/02-品牌实力与卖点/实力-前台与实操教室.webp",
+      "before_bytes": 1738891,
+      "after_bytes": 96264
+    },
+    {
+      "source": "图片素材库/03-课程展示/课程默认图-美容作品.jpg",
+      "output": "图片素材库/03-课程展示/课程默认图-美容作品.webp",
+      "before_bytes": 353831,
+      "after_bytes": 124810
+    },
+    {
+      "source": "图片素材库/04-教学环境与现场/教学主图-真犬实操课堂.png",
+      "output": "图片素材库/04-教学环境与现场/教学主图-真犬实操课堂.webp",
+      "before_bytes": 2178511,
+      "after_bytes": 146486
+    },
+    {
+      "source": "图片素材库/04-教学环境与现场/教学条件-学习工具.png",
+      "output": "图片素材库/04-教学环境与现场/教学条件-学习工具.webp",
+      "before_bytes": 2198310,
+      "after_bytes": 179798
+    },
+    {
+      "source": "图片素材库/04-教学环境与现场/教学环境-专业实操教室.png",
+      "output": "图片素材库/04-教学环境与现场/教学环境-专业实操教室.webp",
+      "before_bytes": 2280081,
+      "after_bytes": 160552
+    },
+    {
+      "source": "图片素材库/04-教学环境与现场/教学环境-泰山路门店.png",
+      "output": "图片素材库/04-教学环境与现场/教学环境-泰山路门店.webp",
+      "before_bytes": 1928647,
+      "after_bytes": 134388
+    },
+    {
+      "source": "图片素材库/04-教学环境与现场/教学现场-理论课堂.png",
+      "output": "图片素材库/04-教学环境与现场/教学现场-理论课堂.webp",
+      "before_bytes": 2348544,
+      "after_bytes": 209224
+    },
+    {
+      "source": "图片素材库/04-教学环境与现场/教学现场-老师实操指导.png",
+      "output": "图片素材库/04-教学环境与现场/教学现场-老师实操指导.webp",
+      "before_bytes": 2438933,
+      "after_bytes": 206432
+    },
+    {
+      "source": "图片素材库/05-历届学员/作品前后对比/1.jpg",
+      "output": "图片素材库/05-历届学员/作品前后对比/1.webp",
+      "before_bytes": 794817,
+      "after_bytes": 81196
+    },
+    {
+      "source": "图片素材库/05-历届学员/作品前后对比/2.jpg",
+      "output": "图片素材库/05-历届学员/作品前后对比/2.webp",
+      "before_bytes": 774429,
+      "after_bytes": 86810
+    },
+    {
+      "source": "图片素材库/05-历届学员/作品前后对比/3.jpg",
+      "output": "图片素材库/05-历届学员/作品前后对比/3.webp",
+      "before_bytes": 859210,
+      "after_bytes": 126896
+    },
+    {
+      "source": "图片素材库/05-历届学员/作品前后对比/4.jpg",
+      "output": "图片素材库/05-历届学员/作品前后对比/4.webp",
+      "before_bytes": 907253,
+      "after_bytes": 124678
+    },
+    {
+      "source": "图片素材库/05-历届学员/作品前后对比/5.jpg",
+      "output": "图片素材库/05-历届学员/作品前后对比/5.webp",
+      "before_bytes": 736402,
+      "after_bytes": 87434
+    },
+    {
+      "source": "图片素材库/05-历届学员/作品前后对比/6.jpg",
+      "output": "图片素材库/05-历届学员/作品前后对比/6.webp",
+      "before_bytes": 926278,
+      "after_bytes": 125924
+    },
+    {
+      "source": "图片素材库/05-历届学员/结业1.png",
+      "output": "图片素材库/05-历届学员/结业1.webp",
+      "before_bytes": 1708950,
+      "after_bytes": 96508
+    },
+    {
+      "source": "图片素材库/05-历届学员/结业2.png",
+      "output": "图片素材库/05-历届学员/结业2.webp",
+      "before_bytes": 2193502,
+      "after_bytes": 154852
+    },
+    {
+      "source": "图片素材库/05-历届学员/结业3.png",
+      "output": "图片素材库/05-历届学员/结业3.webp",
+      "before_bytes": 2042652,
+      "after_bytes": 143452
+    },
+    {
+      "source": "图片素材库/05-历届学员/结业4.png",
+      "output": "图片素材库/05-历届学员/结业4.webp",
+      "before_bytes": 2161507,
+      "after_bytes": 133760
+    },
+    {
+      "source": "图片素材库/06-创始人与师资/00-杨建芳.png",
+      "output": "图片素材库/06-创始人与师资/00-杨建芳.webp",
+      "before_bytes": 1270497,
+      "after_bytes": 98082
+    },
+    {
+      "source": "图片素材库/06-创始人与师资/01-乐美玲.png",
+      "output": "图片素材库/06-创始人与师资/01-乐美玲.webp",
+      "before_bytes": 1257914,
+      "after_bytes": 62404
+    },
+    {
+      "source": "图片素材库/06-创始人与师资/02-宋新杰.png",
+      "output": "图片素材库/06-创始人与师资/02-宋新杰.webp",
+      "before_bytes": 1510449,
+      "after_bytes": 91844
+    },
+    {
+      "source": "图片素材库/06-创始人与师资/03-刘文.png",
+      "output": "图片素材库/06-创始人与师资/03-刘文.webp",
+      "before_bytes": 1231974,
+      "after_bytes": 77062
+    },
+    {
+      "source": "图片素材库/06-创始人与师资/04-徐晔.png",
+      "output": "图片素材库/06-创始人与师资/04-徐晔.webp",
+      "before_bytes": 1436083,
+      "after_bytes": 78436
+    },
+    {
+      "source": "图片素材库/06-创始人与师资/05-杨晨.png",
+      "output": "图片素材库/06-创始人与师资/05-杨晨.webp",
+      "before_bytes": 1155768,
+      "after_bytes": 68192
+    },
+    {
+      "source": "图片素材库/07-学院资质/资质-01-NGKC授权会员单位.png",
+      "output": "图片素材库/07-学院资质/资质-01-NGKC授权会员单位.webp",
+      "before_bytes": 1216516,
+      "after_bytes": 127534
+    },
+    {
+      "source": "图片素材库/07-学院资质/资质-02-NGKC犬只注册服务中心.png",
+      "output": "图片素材库/07-学院资质/资质-02-NGKC犬只注册服务中心.webp",
+      "before_bytes": 2081049,
+      "after_bytes": 179454
+    },
+    {
+      "source": "图片素材库/07-学院资质/资质-03-2025学校荣誉.png",
+      "output": "图片素材库/07-学院资质/资质-03-2025学校荣誉.webp",
+      "before_bytes": 2777284,
+      "after_bytes": 389574
+    },
+    {
+      "source": "图片素材库/07-学院资质/资质-04-产教融合共同体.png",
+      "output": "图片素材库/07-学院资质/资质-04-产教融合共同体.webp",
+      "before_bytes": 1559837,
+      "after_bytes": 171778
+    },
+    {
+      "source": "图片素材库/07-学院资质/资质-05-新瑞鹏校企合作.png",
+      "output": "图片素材库/07-学院资质/资质-05-新瑞鹏校企合作.webp",
+      "before_bytes": 1944806,
+      "after_bytes": 131078
+    },
+    {
+      "source": "图片素材库/08-结业与等级证书/证书-01-学校结业证.jpg",
+      "output": "图片素材库/08-结业与等级证书/证书-01-学校结业证.webp",
+      "before_bytes": 1143610,
+      "after_bytes": 317134
+    },
+    {
+      "source": "图片素材库/08-结业与等级证书/证书-02-NGKC等级证书.jpg",
+      "output": "图片素材库/08-结业与等级证书/证书-02-NGKC等级证书.webp",
+      "before_bytes": 281285,
+      "after_bytes": 359320
+    },
+    {
+      "source": "图片素材库/09-咨询与门店/二维码/公众号二维码.jpg",
+      "output": "图片素材库/09-咨询与门店/二维码/公众号二维码.jpg",
+      "before_bytes": 99507,
+      "after_bytes": 99507
+    },
+    {
+      "source": "图片素材库/09-咨询与门店/二维码/微信二维码.png",
+      "output": "图片素材库/09-咨询与门店/二维码/微信二维码.png",
+      "before_bytes": 145648,
+      "after_bytes": 145648
+    },
+    {
+      "source": "图片素材库/09-咨询与门店/联系背景.png",
+      "output": "图片素材库/09-咨询与门店/联系背景.webp",
+      "before_bytes": 1525218,
+      "after_bytes": 72844
+    },
+    {
+      "source": "图片素材库/90-待补素材/等级考试.png",
+      "output": "图片素材库/90-待补素材/等级考试.webp",
+      "before_bytes": 2174548,
+      "after_bytes": 183840
+    }
+  ]
+}
