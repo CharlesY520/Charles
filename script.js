@@ -77,9 +77,9 @@ const courses = {
     duration: "90天"
   },
   special: {
-    for: "适合：希望按职业方向或兴趣补充专项能力的人",
-    title: "特色专项课程",
-    description: "围绕猫咪护理、梗犬拔毛、等级考试和宠物烘焙等方向，灵活选择需要加强的专项技术。",
+    for: "适合：希望拓展猫咪业务、门店增值项目或专项技术的人",
+    title: "猫咪·烘焙与特色专项课程",
+    description: "重点覆盖猫咪洗护、SPA、赛级护理、猫咪创业，以及宠物烘焙、蛋糕和鲜食等增长方向，同时提供梗犬拔毛与等级考试强化。",
     content: [
       "赛级猫咪护理班｜2800元 · 5天",
       "猫咪创业班｜5800元 · 7天",
@@ -88,7 +88,7 @@ const courses = {
       "宠物烘焙兴趣班｜2900元 · 3天",
       "宠物烘焙创业班｜5900元 · 6天"
     ],
-    ability: "按需补充猫咪护理、梗犬拔毛、考试强化或宠物烘焙能力",
+    ability: "拓展猫咪服务、宠物烘焙、梗犬拔毛或等级考试专项能力",
     certificate: "等级考试强化对应C/B/A考前训练，其他专项按课程目标学习",
     next: "可单独学习，也可搭配C/B/A主课程形成更完整的职业能力",
     price: "500元起",
@@ -195,6 +195,41 @@ function showAlumni(index) {
 
 document.querySelector("[data-alumni-prev]").addEventListener("click", () => showAlumni(alumniIndex - 1));
 document.querySelector("[data-alumni-next]").addEventListener("click", () => showAlumni(alumniIndex + 1));
+
+const credentialSlides = [...document.querySelectorAll(".credential-gallery figure")];
+const credentialLightbox = document.querySelector("[data-credential-lightbox]");
+const credentialImage = document.querySelector("[data-credential-image]");
+const credentialTitle = document.querySelector("[data-credential-title]");
+const credentialDescription = document.querySelector("[data-credential-description]");
+let credentialIndex = 0;
+
+function showCredential(index, openDialog = false) {
+  credentialIndex = (index + credentialSlides.length) % credentialSlides.length;
+  const slide = credentialSlides[credentialIndex];
+  const sourceImage = slide.querySelector("img");
+  credentialImage.src = sourceImage.currentSrc || sourceImage.src;
+  credentialImage.alt = sourceImage.alt;
+  credentialTitle.textContent = slide.querySelector("figcaption strong").textContent;
+  credentialDescription.textContent = slide.querySelector("figcaption span").textContent;
+  if (openDialog && !credentialLightbox.open) credentialLightbox.showModal();
+}
+
+document.querySelectorAll("[data-credential-zoom]").forEach((button, index) => {
+  button.addEventListener("click", () => showCredential(index, true));
+});
+
+document.querySelector("[data-credential-close]").addEventListener("click", () => credentialLightbox.close());
+document.querySelector("[data-credential-prev]").addEventListener("click", () => showCredential(credentialIndex - 1));
+document.querySelector("[data-credential-next]").addEventListener("click", () => showCredential(credentialIndex + 1));
+
+credentialLightbox.addEventListener("click", (event) => {
+  if (event.target === credentialLightbox) credentialLightbox.close();
+});
+
+credentialLightbox.addEventListener("keydown", (event) => {
+  if (event.key === "ArrowLeft") showCredential(credentialIndex - 1);
+  if (event.key === "ArrowRight") showCredential(credentialIndex + 1);
+});
 
 const menuButton = document.querySelector(".menu-button");
 const mainNav = document.querySelector(".main-nav");
