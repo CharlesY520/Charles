@@ -1,7 +1,7 @@
 {
-  "image_count": 38,
-  "before_bytes": 59924281,
-  "after_bytes": 3422018,
+  "image_count": 39,
+  "before_bytes": 62122591,
+  "after_bytes": 3536586,
   "saved_percent": 94.3,
   "images": [
     {
@@ -39,6 +39,12 @@
       "output": "图片素材库/04-教学环境与现场/前台接待商品陈列.webp",
       "before_bytes": 1718310,
       "after_bytes": 58216
+    },
+    {
+      "source": "图片素材库/04-教学环境与现场/教学条件-学习工具.png",
+      "output": "图片素材库/04-教学环境与现场/教学条件-学习工具.webp",
+      "before_bytes": 2198310,
+      "after_bytes": 114568
     },
     {
       "source": "图片素材库/04-教学环境与现场/教学环境-专业实操教室.png",
